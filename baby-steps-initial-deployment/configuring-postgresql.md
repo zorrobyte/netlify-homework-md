@@ -25,9 +25,7 @@ Getting `psql` installed, etc
 <figure><img src="../.gitbook/assets/image (10).png" alt="" width="435"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Note to self, psql server info
-
-![](<../.gitbook/assets/image (11).png>)
+Note to self, psql server info is in Notes
 {% endhint %}
 
 Sweet, PSQL is up and running, firewall rules are deployed, and psql configs are allowing connections.
