@@ -53,7 +53,7 @@ I'm just going to uninstall `bcrypt` and use `bcryptjs` instead. Commit:
 
 There we go! We are ready for PostgreSQL!
 
-But wait! Let's refactor our html API calls to use the new backend:
+But wait! Let's refactor our front end API calls to use the new backend:
 
 {% embed url="https://github.com/zorrobyte/blog-js-project/commit/73d0ac7cd1a178e2ee181920cea03e17ae84ccb3" %}
 
