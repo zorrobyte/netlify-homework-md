@@ -3,6 +3,9 @@
 * [Home](README.md)
 * [Summary](SUMMARY.md)
 
+* **Introduction**
+  * [Question Key](introduction/question-key.md)
+
 * **Baby Steps - Initial Deployment**
   * [Introduction](baby-steps-initial-deployment/README.md)
   * [Configuring PostgreSQL](baby-steps-initial-deployment/configuring-postgresql.md)
@@ -10,9 +13,6 @@
   * [Getting Everything Working](baby-steps-initial-deployment/getting-everything-working.md)
   * [Getting Express Working](baby-steps-initial-deployment/getting-express-working.md)
   * [Initial Product Feedback](baby-steps-initial-deployment/initial-product-feedback.md)
-
-* **Introduction**
-  * [Question Key](introduction/question-key.md)
 
 * **Q & A - Remainder of Homework**
   * [Service Feedback](q-and-a-and-remainder-of-homework/2.-what-did-you-think-of-our-service.md)
@@ -23,6 +23,5 @@
   * [Redirects and Proxies](q-and-a-and-remainder-of-homework/7.-redirects-and-proxies.md)
   * [Deploy a Function](q-and-a-and-remainder-of-homework/8.-deploy-a-function.md)
   * [Security Vulnerabilities](q-and-a-and-remainder-of-homework/9.-security-vulnerabilities.md)
-  * [Q & A Intro](q-and-a-and-remainder-of-homework/README.md)
 
 * [Thank You](thank-you.md)
