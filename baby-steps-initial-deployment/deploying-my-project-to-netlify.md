@@ -12,7 +12,7 @@ My first step was to link my repo to Netlify
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-I'm a little currently mystified as to how to configure the Build settings, however, docs to the rescue!
+I'm currently a little mystified as to how to configure the Build settings, however, docs to the rescue!
 
 {% embed url="https://docs.netlify.com/configure-builds/overview/#basic-build-settings" %}
 
