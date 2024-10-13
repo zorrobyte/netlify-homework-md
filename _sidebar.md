@@ -1,27 +1,20 @@
-<!-- _sidebar.md -->
+# Table of contents
 
-* [Home](README.md)
-* [Summary](SUMMARY.md)
-
-* **Introduction**
+* [Introduction](README.md)
   * [Question Key](introduction/question-key.md)
-
-* **Baby Steps - Initial Deployment**
-  * [Introduction](baby-steps-initial-deployment/README.md)
-  * [Configuring PostgreSQL](baby-steps-initial-deployment/configuring-postgresql.md)
-  * [Deploying My Project to Netlify](baby-steps-initial-deployment/deploying-my-project-to-netlify.md)
-  * [Getting Everything Working](baby-steps-initial-deployment/getting-everything-working.md)
-  * [Getting Express Working](baby-steps-initial-deployment/getting-express-working.md)
+* [Baby steps: Initial deployment](baby-steps-initial-deployment/README.md)
   * [Initial Product Feedback](baby-steps-initial-deployment/initial-product-feedback.md)
-
-* **Q & A - Remainder of Homework**
-  * [Service Feedback](q-and-a-and-remainder-of-homework/2.-what-did-you-think-of-our-service.md)
-  * [Rank Your Favorite Activities](q-and-a-and-remainder-of-homework/3.-rank-your-5-favorite-and-5-least-favorite-activities.md)
-  * [Documentation Site Feedback](q-and-a-and-remainder-of-homework/4.-a-well-done-documentation-site.md)
-  * [DNS Configuration Challenges](q-and-a-and-remainder-of-homework/5.-what-are-two-major-challenges-around-dns-configuration.md)
-  * [Troubleshooting](q-and-a-and-remainder-of-homework/6.-how-do-you-troubleshoot.md)
-  * [Redirects and Proxies](q-and-a-and-remainder-of-homework/7.-redirects-and-proxies.md)
-  * [Deploy a Function](q-and-a-and-remainder-of-homework/8.-deploy-a-function.md)
-  * [Security Vulnerabilities](q-and-a-and-remainder-of-homework/9.-security-vulnerabilities.md)
-
-* [Thank You](thank-you.md)
+  * [Deploying my project to Netlify](baby-steps-initial-deployment/deploying-my-project-to-netlify.md)
+  * [Getting Express working](baby-steps-initial-deployment/getting-express-working.md)
+  * [Configuring PostgreSQL](baby-steps-initial-deployment/configuring-postgresql.md)
+  * [Getting everything working](baby-steps-initial-deployment/getting-everything-working.md)
+* [Q\&A and remainder of homework](q-and-a-and-remainder-of-homework/README.md)
+  * [2. What did you think of our service?](q-and-a-and-remainder-of-homework/2.-what-did-you-think-of-our-service.md)
+  * [3. Rank your 5 favorite and 5 least favorite activities](q-and-a-and-remainder-of-homework/3.-rank-your-5-favorite-and-5-least-favorite-activities.md)
+  * [4. A well done documentation site](q-and-a-and-remainder-of-homework/4.-a-well-done-documentation-site.md)
+  * [5. What are two major challenges around DNS configuration?](q-and-a-and-remainder-of-homework/5.-what-are-two-major-challenges-around-dns-configuration.md)
+  * [6. How do you troubleshoot?](q-and-a-and-remainder-of-homework/6.-how-do-you-troubleshoot.md)
+  * [7. Redirects and proxies](q-and-a-and-remainder-of-homework/7.-redirects-and-proxies.md)
+  * [8. Deploy a function](q-and-a-and-remainder-of-homework/8.-deploy-a-function.md)
+  * [9. Security Vulnerabilities](q-and-a-and-remainder-of-homework/9.-security-vulnerabilities.md)
+* [Thank you!](thank-you.md)
