@@ -60,6 +60,6 @@ HEY IT ALL WORKS! :raised\_hands:
 
 <figure><img src="../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Go checkout my full stack blog app I created at:
+Go checkout my full stack blog app I created and we learned how to deploy on Netlify at:
 
 {% embed url="https://ross-blog-project.netlify.app" %}
