@@ -8,7 +8,9 @@ Note that this [Gitbook space](https://zorroheater-project.gitbook.io/netlify-ho
 \
 Cool, right?
 
-Note that the Netlify version of this docs repo has broken images and this documentation is intended to be viewed on [Gitbook](https://zorroheater-project.gitbook.io/netlify-homework-ross-fisher) (Gitbook stores the image assets in a `.gitbook` folder at root, which Netlify is currently unable to resolve).
+
+
+Note that the Netlify version of this docs repo has broken images and this documentation is intended to be viewed on [Gitbook](https://zorroheater-project.gitbook.io/netlify-homework-ross-fisher) (Gitbook stores the image assets in a `.gitbook` folder at root, which Netlify is currently unable to resolve as it expects it to be in the `public/.gitbook` folder. I could set-up a Github Actions to fix this but...).
 
 I could spend a bit more time getting images working and pretty up the Netlify site (I used [docsify](https://docsify.js.org/#/) for the frontend) - but sticking to the instructed ethos of:
 
