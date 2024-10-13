@@ -59,3 +59,7 @@ You know how I said I should have used DRY and stored my endpoint in a variable 
 HEY IT ALL WORKS! :raised\_hands:
 
 <figure><img src="../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+
+Go checkout my full stack blog app I created at:
+
+{% embed url="https://ross-blog-project.netlify.app" %}
