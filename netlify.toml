@@ -1,0 +1,16 @@
+[[redirects]]
+  from = "/.gitbook/assets/*"
+  to = "/.gitbook/assets/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "/debug/:splat"
+  status = 200
+  force = false
+
+[[headers]]
+  for = "/.gitbook/assets/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
