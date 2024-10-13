@@ -8,6 +8,8 @@ Note that this [Gitbook space](https://zorroheater-project.gitbook.io/netlify-ho
 \
 Cool, right?
 
+Note that the Netlify version of this docs repo has broken images and this documentation is intended to be viewed on [Gitbook](https://zorroheater-project.gitbook.io/netlify-homework-ross-fisher) (Gitbook stores the image assets in a `.gitbook` folder at root, which Netlify is currently unable to resolve).
+
 I could spend a bit more time getting images working and pretty up the Netlify site (I used [docsify](https://docsify.js.org/#/) for the frontend) - but sticking to the instructed ethos of:
 
 * _We’re not going to be judging your web design skills. We will be judging how you approach the work as well as looking for thoughtful answers to the questions._
